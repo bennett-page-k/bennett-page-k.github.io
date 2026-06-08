@@ -1,4 +1,3 @@
-# bennett-page-k.github.io
 ## About me
 For the past decade, I've focused on improving department operations, leading teams effectivly, solving complex operational problems, and ensuring administrative workflows are handled with precision.
 
