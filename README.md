@@ -11,7 +11,7 @@ My career has always been driven by a need for continuous growth and adaptabilit
 
 ### Vulnerable System Analysis: "Coming Soon"
 
-### SQL Query: "Coming Soon"
+### [SQL Query:](https://docs.google.com/document/d/1h5rKQTKigxj0OW7Qw_wFGHjS43rAy-gGl9nPPLHiRs0/edit?usp=sharing)
 
 ## Skills & Expertise
 ### languages
