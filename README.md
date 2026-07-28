@@ -14,8 +14,7 @@ My career has always been driven by a need for continuous growth and adaptabilit
 ### [SQL Query](https://docs.google.com/document/d/1h5rKQTKigxj0OW7Qw_wFGHjS43rAy-gGl9nPPLHiRs0/edit?usp=sharing)
 
 ## Skills & Expertise
-### languages
-### tools
-### Security practices
-### Software Platforms
-### Strengths 
+### Languages/Tools:  Linux, Windows, SQL BigQuery, Splunk, WireShark, Tcpdump, Suricata, Python, ChatGPT, Anthropic, 
+### Security Practices: Information Security, Network Security, Vulnerability Assessment, Threat Analysis, Log Analysis, Security Frameworks and Controls
+### Software Platforms: Google Workspace, Slack, Microsoft Office, Outlook, Zoom, 
+### Strengths: Investigative Thinking, Risk Assessment, Problem-Solving, Attention to Detail, Calmness Under Pressure, Communication, Policy Adherence, Ethics, Documentation. 
