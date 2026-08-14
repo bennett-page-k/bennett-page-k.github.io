@@ -7,7 +7,7 @@ My career has always been driven by a need for continuous growth and adaptabilit
 ## Projects
 ### [TryHackme Journal](https://docs.google.com/document/d/1AqvB6hMqSVd45PdipgGiDW9ZQre24EevZHQloSxM_P4/edit?usp=sharing)
 
-### Incident Handler's Journal: "Coming Soon"
+### [Incident Handler's Journal:](https://docs.google.com/document/d/11mmnIWJT2bhgS-VP79spXWquJ5o4sWyNfvJUCdi1NSQ/edit?usp=sharing)
 
 ### [Vulnerable System Analysis](https://docs.google.com/document/d/10Ug7uTUY9bZV7JWscLA5sVQXqaGEc2ynI3H3_zVPchc/edit?usp=sharing)
 
