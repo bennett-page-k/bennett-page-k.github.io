@@ -1,130 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Page Bennett | Portfolio</title>
+# About me
+For over the past decade I've been focused on improving department operations, leading my teams effectivly, and solving complex operational problems withing my field. Now I'm shifting careers and ready to bring my unique experience and expertise with me! 
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-    <link rel="stylesheet" href="index.css">
+My career has always been driven by a need for continuous growth and adaptability. Right now, I'm translating that foundational operations experience into the tech sector. I'm currently completing the Google Cybersecurity Certificate program and studying for the CompTIA A+ exam aiming to combine my seasoned management background with hands-on, modern technical skills. Through strong communication, analytical thinking, and a commitment to service, I aim to help organizations strengthen security, manage risk, and safeguard the people and communities they serve. 
+ 
 
-</head>
-<body>
-    <div id="loading">
-        <div id="spinner"></div>
-    </div>
-    <div id="header" class="animated slideInDown" style="animation-delay:1.8s;">
-        <div id="title">Page Bennett</div>
-        <nav id="links" aria-label="Main navigation">
-            <a href="#aboutme">About me</a>
-            <a href="#skills">Skills</a>
-            <a href="#projects">Projects</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </div>
+## Projects
+### [TryHackme Journal](https://docs.google.com/document/d/1AqvB6hMqSVd45PdipgGiDW9ZQre24EevZHQloSxM_P4/edit?usp=sharing)
 
-    <div id="middle">
-        <div id="tagline" class="animated zoomIn" style="animation-delay:1.8s;">
-            <p>Detail-oriented, adaptive professional with a passion for complex problem-solving.</p>
-            <button class="btn_one" onclick="window.location.href='#contact'">Contact Me</button>
-        </div>
-    </div>
+### [Incident Handler's Journal:](https://docs.google.com/document/d/11mmnIWJT2bhgS-VP79spXWquJ5o4sWyNfvJUCdi1NSQ/edit?usp=sharing)
 
-    <div id="portfolio">
-        <section id="aboutme">
-            <h1>About me</h1>
-            <p>
-                For over a decade, I've helped keep things running smoothly by improving day-to-day operations, leading teams, and finding practical solutions to complex challenges. I enjoy bringing structure to busy environments, whether that means creating more efficient workflows, keeping records accurate, upholding policies and safety standards, or balancing multiple priorities without losing sight of the details.
-            </p>
-            <p>
-                I'm someone who values growth, adaptability, and service. As I continue building my technical knowledge, I'm excited to bring my operations and management experience into new opportunities where I can solve problems, support people, and help an organization grow with confidence.
-            </p>
-        </section>
+### [Vulnerable System Analysis](https://docs.google.com/document/d/10Ug7uTUY9bZV7JWscLA5sVQXqaGEc2ynI3H3_zVPchc/edit?usp=sharing)
 
-        <section id="skills">
-            <h1>Skills</h1>
-            <div class="skill-list">
-                <div class="skill-category">
-                    <h3>Store Operations &amp; Administration</h3>
-                    <p>Operations Management, Workflow Optimization, Staff Scheduling, Administrative Support, Process Improvement, Records Management, Operational Reporting, Time Management, Prioritization.</p>
-                </div>
-                <div class="skill-category">
-                    <h3>Team Leadership &amp; Development</h3>
-                    <p>Staff Training, Team Coordination, Performance Support, Cross-Team Collaboration, Employee Communication, Collaborative Work Environment, Problem-Solving, Independent Decision-Making.</p>
-                </div>
-                <div class="skill-category">
-                    <h3>Customer Service &amp; Sales</h3>
-                    <p>Customer Relations, Customer Inquiry Resolution, Sales Growth, Consultative Selling, Product Recommendations, Revenue Generation, Customer Satisfaction, Client Retention, Conflict Resolution.</p>
-                </div>
-                <div class="skill-category">
-                    <h3>Financial &amp; Business Operations</h3>
-                    <p>Payment Processing, Billing Accuracy, Financial Reconciliation, Commission Tracking, Expense Awareness, Revenue Tracking, Record Accuracy, Microsoft Excel, Google Sheets.</p>
-                </div>
-                <div class="skill-category">
-                    <h3>Safety, Compliance &amp; Organization</h3>
-                    <p>Policy and Procedure Adherence, Safety Standards, Risk Assessment, Hazard Identification, Incident Prevention, Attention to Detail, Organization, Accountability, Calmness Under Pressure.</p>
-                </div>
-                <div class="skill-category">
-                    <h3>Technology &amp; Communication</h3>
-                    <p>Microsoft Office Suite, Google Workspace, POS-Related Payment Processing, Data Entry, Phone and Email Communication, Written Communication, Digital Recordkeeping, Slack, Zoom, Linux, Windows, SQL, Python, AI prompting.</p>
-                </div>
-            </div>
-        </section>
+### [SQL Query](https://docs.google.com/document/d/1h5rKQTKigxj0OW7Qw_wFGHjS43rAy-gGl9nPPLHiRs0/edit?usp=sharing)
 
-        <section id="projects">
-            <h1>Projects</h1>
-            <div class="project-list">
-                 <div class="project">
-                 <h2>Tryhackme Journal</h2>
-                 <p>Documented hands-on labs covering Linux and Windows administration, digital forensics, network traffic analysis, log analysis, and incident response. Applied tools including Wireshark and Splunk to investigate security events, correlate evidence across data sources, identify indicators of compromise, and summarize key findings.</p>
-                 <button class="btn_one" onclick="window.location.href='https://docs.google.com/document/d/1AqvB6hMqSVd45PdipgGiDW9ZQre24EevZHQloSxM_P4/edit?usp=sharing'">visit project</button>
-                </div>
-
-                <div class="project">
-                 <h2>Incident handlers Journal</h2>
-                 <p>Created a incident handler's journal documenting cybersecurity investigations involving ransomware, phishing, malware, unauthorized access, brute-force attacks, and website defacement. Analyzed network traffic, file hashes, threat intelligence, and system logs using Wireshark, VirusTotal, Splunk, and OSINT techniques; identified indicators of compromise, documented findings using the 5 W's framework, and recommended escalation, security hardening, and employee training.</p>
-                 <button class="btn_one" onclick="window.location.href='https://docs.google.com/document/d/11mmnIWJT2bhgS-VP79spXWquJ5o4sWyNfvJUCdi1NSQ/edit?usp=sharing'">visit project</button>
-                </div>
-
-                <div class="project">
-                 <h2>Vulnerable Systems Analysis</h2>
-                 <p>Completed a vulnerability assessment for a fictional e-commerce database server using NIST SP 800-30. Evaluated access-control risks, scored potential threats, and recommended role-based access, least privilege, MFA, firewall restrictions, auditing, and TLS encryption to protect customer data and business operations.</p>
-                 <button class="btn_one" onclick="window.location.href='https://docs.google.com/document/d/10Ug7uTUY9bZV7JWscLA5sVQXqaGEc2ynI3H3_zVPchc/edit?usp=sharing'">visit project</button>
-                </div>
-
-                <div class="project">
-                 <h2>SQL Query</h2>
-                 <p>Applied SQL filtering in MariaDB using AND, OR, NOT, LIKE, and wildcards to analyze login activity and retrieve employee and device data for security investigations and system updates.</p>
-                 <button class="btn_one" onclick="window.location.href='https://docs.google.com/document/d/1h5rKQTKigxj0OW7Qw_wFGHjS43rAy-gGl9nPPLHiRs0/edit?usp=sharing'">visit project</button>
-                </div>
-            </div>
-        </section>
-         
-        <section id="contact">
-            <h1>Contact</h1>
-            <form action="mailto:Bennett.Page.K@gmail.com" method="post" enctype="text/plain">
-                <input type="text" name="name" placeholder="name" required>
-                <input type="email" name="email" placeholder="email" required>
-                <textarea name="message" placeholder="your message" required rows="5"></textarea>
-                <button type="submit" class="btn_one">send</button>
-            </form>
-            <div id="details">
-                    <a class="btn_social" href="tel:1 507 993 4127" aria-label="Call me">
-                        <i class="fas fa-phone"></i>
-                    </a>
-                    <a class="btn_social" href="mailto:Bennett.Page.K@gmail.com" aria-label="Email me">
-                        <i class="fas fa-at"></i>
-                    </a>
-                    <a class="btn_social" href="https://www.linkedin.com/in/page-bennett/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-                        <i class="fab fa-linkedin"></i>
-                    </a>
-            </div>
-        </section>
-    </div>
-<script src="index.js" type="text/javascript"></script>
-</body>
-</html>
+## Skills & Expertise
+### Languages/Tools:  Linux, Windows, SQL BigQuery, Splunk, WireShark, Tcpdump, Suricata, Python, ChatGPT, Anthropic, 
+### Security Practices: Information Security, Network Security, Vulnerability Assessment, Threat Analysis, Log Analysis, Security Frameworks and Controls
+### Software Platforms: Google Workspace, Slack, Microsoft Office, Outlook, Zoom, 
+### Strengths: Investigative Thinking, Risk Assessment, Problem-Solving, Attention to Detail, Calmness Under Pressure, Communication, Policy Adherence, Ethics, Documentation.
